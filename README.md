@@ -6,7 +6,8 @@ So there are not user accounts and follow function. You can challenge after you 
 ```
 Check out [LIVE DEMO](https://JamesTwitterClone.mikebruis.repl.co) here!!
 ## Screenshot
-![Screenshot 2022-08-03 at 11 10 12 AM](https://user-images.githubusercontent.com/109030441/182532453-9a68eaf6-7133-4ec7-8420-2a23207088f9.png)
+![twitter](https://user-images.githubusercontent.com/63624623/206113189-28e9abf2-14eb-406e-a947-7876ce18aa2c.png)
+
 ## Tech used
 ```
 * Html
